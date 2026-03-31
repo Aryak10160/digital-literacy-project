@@ -10,7 +10,7 @@ Project for digital literacy
 ---
 
 ##Project Overview
-This project was completed as part of the Digital Literacy course. It focuses on developing essential digital skills such as online safety, professional communication, digital presence, and awareness of cybercrime. The project consists of five tasks covering different aspects of digital literacy.
+This project was completed as part of the Digital Literacy course. The project is aimed at helping learners acquire basic knowledge in the following areas: online safety, professional communication, digital presence, and cybercrime. The project is divided into five different tasks.
 
 ---
 
@@ -77,7 +77,7 @@ The complete project report is available here:
 ---
 
 ##  Conclusion
-This project helped me understand the importance of digital literacy, online safety, and professional communication. It also improved my ability to use digital tools effectively for academic and professional growth.
+This project has enabled me to understand the significance of digital literacy, online safety, and professional communication. It has also helped me enhance my skills in using digital technology for academic and professional growth.
 
 ## 📊 Digital Literacy Quiz
 
