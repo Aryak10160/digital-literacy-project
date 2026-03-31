@@ -1,6 +1,6 @@
 # digital-literacy-project
 Project for digital literacy 
-## 👤 Student Details
+## Student Details
 - Name: ARYAK S KAYANAT
 - Reg No: 25MIM10160
 - Branch: Integrated Mtech AI
@@ -9,12 +9,12 @@ Project for digital literacy
 
 ---
 
-## 📌 Project Overview
+##Project Overview
 This project was completed as part of the Digital Literacy course. It focuses on developing essential digital skills such as online safety, professional communication, digital presence, and awareness of cybercrime. The project consists of five tasks covering different aspects of digital literacy.
 
 ---
 
-## 🧩 Task 1 – Infographic
+## Task 1 – Infographic
 - Created a digital literacy awareness infographic using Canva
 - Topics covered:
   - Digital literacy basics
@@ -26,7 +26,7 @@ This project was completed as part of the Digital Literacy course. It focuses on
 
 ---
 
-## 💼 Task 2 – Digital Portfolio
+## Task 2 – Digital Portfolio
 - Created profiles on:
   - GitHub
   - LinkedIn
@@ -37,7 +37,7 @@ This project was completed as part of the Digital Literacy course. It focuses on
 
 ---
 
-## 📊 Task 3 – Platforms
+## Task 3 – Platforms
 
 ### 🔹 Coding Practice
 - Completed beginner problem on HackerRank
@@ -51,7 +51,7 @@ This project was completed as part of the Digital Literacy course. It focuses on
 
 ---
 
-## ✉️ Task 4 – Email Etiquette
+## Task 4 – Email Etiquette
 - Wrote two professional emails:
   - Assignment extension request
   - Internship inquiry
@@ -61,7 +61,7 @@ This project was completed as part of the Digital Literacy course. It focuses on
 
 ---
 
-## 🔐 Task 5 – Cybercrime Awareness
+## Task 5 – Cybercrime Awareness
 - Case study on UPI fraud
 - Created prevention checklist with safety tips
 
@@ -69,14 +69,14 @@ This project was completed as part of the Digital Literacy course. It focuses on
 
 ---
 
-## 📄 Project Report
+## Project Report
 The complete project report is available here:
 
 📁 `report/DIGITAL LITERACY PROJECT REPORT.pdf`
 
 ---
 
-## 🚀 Conclusion
+##  Conclusion
 This project helped me understand the importance of digital literacy, online safety, and professional communication. It also improved my ability to use digital tools effectively for academic and professional growth.
 
 ## 📊 Digital Literacy Quiz
