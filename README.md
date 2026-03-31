@@ -22,7 +22,7 @@ This project was completed as part of the Digital Literacy course. It focuses on
   - Professional online presence
   - Email etiquette
 
-📁 File:
+📁 File: `Task 1-presentation/infographic.png`
 
 ---
 
@@ -33,7 +33,7 @@ This project was completed as part of the Digital Literacy course. It focuses on
   - Kaggle
 - Built a GitHub profile README
 
-📁 Screenshots in: 
+📁 Screenshots in: `task2 - portfolio/`
 
 ---
 
@@ -47,7 +47,7 @@ This project was completed as part of the Digital Literacy course. It focuses on
 
 🔗 Form Link: https://docs.google.com/forms/d/e/1FAIpQLSeKikjJoy_2Rj5XUtmb0uv1-MVU2OQCYgkopV3TY7Bn470NfA/viewform
 
-📁 Files in: `task-3-platforms/`
+📁 Files in: `task3 - platforms/`
 
 ---
 
@@ -57,7 +57,7 @@ This project was completed as part of the Digital Literacy course. It focuses on
   - Internship inquiry
 - Created social media Do’s and Don’ts checklist
 
-📁 Files in: `task-4-email-etiquette/`
+📁 Files in: `task4- email -etiquette/`
 
 ---
 
@@ -65,7 +65,7 @@ This project was completed as part of the Digital Literacy course. It focuses on
 - Case study on UPI fraud
 - Created prevention checklist with safety tips
 
-📁 Files in: `task-5-cybercrime/`
+📁 Files in: `task5 - cybercrime/`
 
 ---
 
@@ -82,3 +82,5 @@ This project helped me understand the importance of digital literacy, online saf
 ## 📊 Digital Literacy Quiz
 
 I created a Google Form to spread awareness about digital literacy.
+
+
