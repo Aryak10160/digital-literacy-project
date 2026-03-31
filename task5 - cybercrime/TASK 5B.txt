@@ -1,20 +1,20 @@
 Stay Safe Online Checklist
 
 General Safety Tips
-- Use unique and strong passwords for all accounts  
-- Enable 2-factor authentication where possible   
-- Do not share personal information on unknown websites
-- Do not click on suspicious emails or unknown attachments 
-- Use only official apps and websites for transactions  
-- Keep your devices up to date with the latest security updates  
-- Always verify the identity of unknown callers or messages  
-- Regularly check your bank and app transaction history  
+- Change your passwords regularly and ensure they are unique and strong  
+- Enable 2-factor authentication  
+- Do not disclose your personal information to unknown sites  
+- Do not click on suspicious emails and unknown attachments  
+- Only use official apps and sites to perform transactions  
+- Ensure your devices are updated with the latest security patches  
+- Always verify the authenticity of unknown callers and messages  
+- Always check your bank and app transaction history
 
 Financial / UPI Safety Tips
-- Do not share your UPI PIN, OTP, or banking details with anyone  
-- Remember: Your UPI PIN is for sending money, not receiving money!  
-- Do not authorize unknown or unexpected payment requests  
-- Do not scan random QR codes from unknown people  
+- Never disclose your UPI PIN, OTP, or bank account information to anyone  
+- Remember: Your UPI PIN is only for sending money, not receiving money!  
+- Never allow any unknown or unexpected payment requests  
+- Never scan any random QR code sent by an unknown person 
 
 Reporting Cybercrime
 - National Cyber Crime Portal: https://cybercrime.gov.in  
