@@ -72,7 +72,7 @@ This project was completed as part of the Digital Literacy course. It focuses on
 ## 📄 Project Report
 The complete project report is available here:
 
-📁 `report/Project_Report.pdf`
+📁 `report/DIGITAL LITERACY PROJECT REPORT.pdf`
 
 ---
 
